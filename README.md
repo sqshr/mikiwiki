@@ -6,3 +6,4 @@ This is a python2 personal wiki. It uses normal, unadulterated files and folders
 * Full grep style search
 * Page creation, editing and deletion
 * Read only mode for non localhost users
+* Bootstrap 2 theme support
