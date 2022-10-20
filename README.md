@@ -1,3 +1,6 @@
+# No Longer Useful
+I migrated to: https://github.com/Linbreux/wikmd
+
 mikiwiki
 ========
 
